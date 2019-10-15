@@ -1,4 +1,3 @@
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
 The files contained here represent the output from k-means clustering analysis 
 of CVMS-4.26 using the built-in capabilities of MATLAB. Each analysis was run 
 for a predefined value of K regions, ranging from 1 to 10. In order to mitigate 
