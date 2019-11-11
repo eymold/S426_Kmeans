@@ -2,7 +2,7 @@ The files contained here represent the output from k-means clustering analysis
 of CVMS-4.26 using the built-in capabilities of MATLAB. Each analysis was run 
 for a predefined value of K regions, ranging from 1 to 10. In order to mitigate 
 some inherent biases from variations in velocity, we calculated the average 1D 
-Vp an Vs profiles for S4.26 which are contained in the file, 
+Vp and Vs profiles for S4.26 which are contained in the file, 
 "Average_1D_S426.mat" and subtracted these averages from the full CVM before 
 clustering. Additionally for the analysis of the concatenated Vs+Vp profiles 
 (200 length vectors, termed "gamma" in the paper), we scaled the Vp portion by 
